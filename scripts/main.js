@@ -962,8 +962,8 @@ function itemsButtonClick() {
         "PG 58", "PL 80a", "SM 58", "SM 57", "PL 37", "Shure Wireless Mic", "AKG Wireless", "New DI", "Old DI", "Analog DI",
         "Old Mic", "Podium Mic", "Shure Receiver", "Sennheiser Wireless Mic", "Sennheiser Receiver", "StudioMaster Wireless Mic", "StudioMaster Receiver",
         "DAS Speaker", "Ahuja Speaker", "JBL Speaker", "TonyLee Amp", "Ahuja Amp", "Studiomaster Amp",
-        "Long Mic Stand", "Short Mic Stand", "Studiomaster Mixer",
-        "Tube Holder", "Fader Strip", "PAR Cans", "Halo", "LED"
+        "Long Mic Stand", "Short Mic Stand", "Studiomaster Mixer", "AKG Wireless Collar Mic","EV Speakers",
+        "Tube Holder", "Fader Strip", "PAR Cans", "Halo", "LED", "AKG Wired", "Shure Headworn", "Shure PG58 Wireless"
     ];
 
     addItemButton.onclick = function() {
