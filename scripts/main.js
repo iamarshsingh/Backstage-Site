@@ -174,7 +174,7 @@ function homeButtonClick() {
     loader.style.display = "block";
 
     firebase.auth().currentUser.providerData.forEach(function(profile) {
-        currentUserId = profile.email.substring(0, 8);
+        currentUserId = profile.email.substring(0, 9);
     });
 
     //setting user profile
